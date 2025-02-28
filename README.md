@@ -2,6 +2,8 @@
 
 Este é um projeto simples de um componente funcional em React Native utilizando o Expo que exibe um card de produto. O componente recebe os dados do produto no formato JSON via props e exibe a imagem, nome, calorias e preço do produto.
 
+![Card-Produto](https://github.com/Lydson/ReactNativeProductCard/blob/main/imagens/CardProdutosReactNative.png)
+
 ## Descrição
 
 O componente `ProductCard` foi criado seguindo as boas práticas de desenvolvimento. Ele utiliza propriedades para receber os dados do produto e exibir essas informações de forma organizada e estilizada.
